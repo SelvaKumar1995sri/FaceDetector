@@ -6,4 +6,5 @@ Created simple flask with HTML button tag to open webcam access it will detect f
 ![Wireframe](https://github.com/SelvaKumar1995sri/FaceDetector-AI/blob/main/img/home.PNG)
 
 **After Click on Submit :**
+<br>
 ![Wireframe](https://github.com/SelvaKumar1995sri/FaceDetector-AI/blob/main/img/webcam.PNG)
