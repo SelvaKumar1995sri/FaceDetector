@@ -30,7 +30,15 @@ while True:
 
 
     cv2.imshow('clever progammer face detector',frame)
-    cv2.waitKey(1)
+    key = cv2.waitKey(1)
+
+    #stop when the Q key is pressed
+    if key==81 or key==133:
+        break
+
+#release the webcamera object
+webcam.release()
+
 
 """
 #detect faces
