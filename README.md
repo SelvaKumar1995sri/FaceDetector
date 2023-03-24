@@ -3,4 +3,4 @@ Created simple flask with HTML button tag to open webcam access it will detect f
 
 **Home Screen:**
 <br>
-![Wireframe]([https://github.com/SelvaKumar1995sri/Bike-Accessories/blob/main/img/cycle.PNG](https://github.com/SelvaKumar1995sri/FaceDetector-AI/blob/main/img/home.PNG)) 
+![Wireframe](https://github.com/SelvaKumar1995sri/FaceDetector-AI/blob/main/img/home.PNG)
